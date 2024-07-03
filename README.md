@@ -11,5 +11,5 @@ pip install -r requeriments.txt
 
 Para executar
 ```
-
+python converter.py
 ```
