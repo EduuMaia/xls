@@ -4,6 +4,13 @@ Learn more at https://developers.google.com/idx/guides/customize-idx-env
 
 # Guia
 Executar no terminal 
+
+Na primeira vez:
+```
+python -m venv .venv
+```
+
+Nas posteriores, abrir terminal e executar 
 ```
 source .venv/bin/activate
 pip install -r requeriments.txt
